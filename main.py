@@ -5,9 +5,7 @@ to /output/entry.txt.
 Angle: PRIDE and showing it off. The friend describes the app idea in
 plain words, an agent builds it, and the payoff is one vivid moment:
 pulling out their own phone and showing their friends the app they
-dreamed up. That moment is the concrete reason to say yes, and it is
-genuinely different from v1 (the pay-only-if-you-love-it deal) and v2
-(the over-coffee immediacy of tonight).
+dreamed up. That moment is the concrete reason to say yes.
 
 Truth guardrails, kept deliberately: "an agent builds it" is what
 make.fun agents do from a plain-words description; the sentence never
